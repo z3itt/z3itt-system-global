@@ -43,7 +43,6 @@ Economy games for users to have fun and compete with each other.
 - `/economy slot <amount>` : Classic slot machine game.
 - `/economy sweetbonanza <amount>` : A fun spinning wheel and multiplier game.
 - `/economy blackjack <amount>` : The popular card game (21) played against the dealer.
-- `/economy allin` : Go all-in with your entire balance (All or nothing).
 
 ### 🎙️ Voice & Temporary Room Commands (`/voice`)
 Tools for creating private voice channels and tracking statistics.
